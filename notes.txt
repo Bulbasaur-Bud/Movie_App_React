@@ -1,0 +1,8 @@
+What is Promise?
+Promise is a way of writting code that saya, "i promise that i am going to respond"
+The respond can be either "Successful" or "Error, it'll still respond. 
+
+Promise has three states: 
+1. Pending: This is when we send our request 
+2. Fulfilled: This is when completed successfully 
+3. Rejected: This is when failed 
